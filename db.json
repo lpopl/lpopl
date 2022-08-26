@@ -1,15 +1,28 @@
-[
+
   {
-    "name": "soso",
-    "name2": "sosonew",
-    "city": "soso1",
-    "country": "soso2",
-    "iata_code": "soso3",
-    "_geoloc": {
-      "lat": 33.636719,
-      "lng": -84.428067
-    },
-    "links_count": 1111,
-    "objectID": "222"
+    "Scientific_Name": "(CEFALEXIN (CEPHALEXIN",
+    "Marketing_Company": "DAR ALDAWA",
+    "DrugType": "Generic",
+    "Sub_Type": "Other",
+    "Trade_Name": "CEPHADAR",
+    "Strength": 250,
+    "StrengthUnit": "mg",
+    "PharmaceuticalForm": "capsule, hard",
+    "AdministrationRoute": "Oral",
+    "Size": "",
+    "SizeUnit": "Non",
+    "PackageTypes": "Blister",
+    "PackageSize": 500,
+    "Legal_Status": "Prescription",
+    "Product_Control": "Uncontrolled",
+    "Distribute_area": "Hospital",
+    "shelfLife": 36,
+    "Marketing_Country": "Jordan",
+    "Manufacture_Name": "DAR ALDAWA",
+    "Manufacture_Country": "Jordan",
+    "Secondry_package_manufacture": "Non",
+    "Main_Agent": "Salehiya Trading Co.",
+    "Secosnd_Agent": "Non",
+    "Third_agent": "Non"
   }
 ]
