@@ -26,17 +26,5 @@
     "Secosnd_Agent": "Non",
     "Third_agent": "Non"
   }
-  ,
-  {
-    "name": "Chicago Ohare Intl",
-    "city": "Chicago",
-    "country": "United States",
-    "iata_code": "ORD",
-    "_geoloc": {
-      "lat": 41.978603,
-      "lng": -87.904842
-    },
-    "links_count": 1108,
-    "objectID": "3830"
-  }
+  
 ]
